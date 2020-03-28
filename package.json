@@ -1,0 +1,17 @@
+{
+  "name": "test-yarn-pkg-versions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "CXuesong",
+  "license": "PD",
+  "private": true,
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "devDependencies": {
+    "@types/webpack": "4.41.2",
+    "@types/webpack-dev-server": "^3.10.1",
+    "typescript": "^3.8.3"
+  },
+  "repository": "https://github.com/CXuesong/test-yarn-pkg-versions"
+}
